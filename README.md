@@ -1,4 +1,4 @@
-echo "# Pet System in C#  
+Pet System in C#  
 A simple demo of Interfaces, Abstract Classes, and Polymorphism using pets.  
 
 ## 🧪 Concepts Demonstrated  
