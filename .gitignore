@@ -1,0 +1,22 @@
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Build output
+bin/
+obj/
+
+# VS Code settings (if you're using it)
+.vscode/
+
+# Mac-specific
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
